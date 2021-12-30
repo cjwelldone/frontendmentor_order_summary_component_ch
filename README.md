@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://cjwelldone.github.io/frontendmentor_order_summary_component_ch/](https://cjwelldone.github.io/frontendmentor_order_summary_component_ch/)
+
 
 ## My process
 
@@ -56,5 +56,4 @@ Will dive deeper into Sass and ScSS
 
 ## Author
 
-- Website - [CJWellDone](https://www.your-site.com)
 - Frontend Mentor - [@cjwelldone](https://www.frontendmentor.io/profile/cjwelldone)
