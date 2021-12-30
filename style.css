@@ -22,7 +22,7 @@ body {
     margin: auto 0;
     }
 
-.card-wrapper {
+main {
     display: flex;
     justify-content: center;
 }
@@ -70,7 +70,7 @@ p {
     text-align: left;
 }
 
-.price p, h3 {
+.price p, h2 {
     padding: 0;
     margin: .2rem;
 }
@@ -99,12 +99,12 @@ button {
     font-size: 1rem;
 }
 
-.attribution { 
+footer { 
     font-size: 0.8rem; 
     text-align: center; 
 }
 
-.attribution a { 
+footer a { 
     color: var(--frontendMentorBlue); 
 }
 
