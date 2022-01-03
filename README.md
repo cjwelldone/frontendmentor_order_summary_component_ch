@@ -41,10 +41,11 @@ Users should be able to:
 
 - HTML5
 - Flexbox
+- SASS
 
 ### What I learned
 
-Learned more about flexbox.
+Learned more about flexbox and using SASS.
 
 ### Continued development
 
