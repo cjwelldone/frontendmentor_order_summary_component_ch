@@ -144,7 +144,7 @@ button:hover {
   }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 416px) {
   .card {
     width: 90%;
     margin: 1rem;
@@ -152,15 +152,6 @@ button:hover {
   }
   .content-card {
     padding: 1rem;
-  }
-}
-
-@media not all and (max-width: 450px) {
-  .safari10 {
-    margin-top: 4rem;
-    margin-bottom: 4rem;
-    margin-left: 1rem;
-    margin-right: 1rem;
   }
 }
 /*# sourceMappingURL=style.css.map */
